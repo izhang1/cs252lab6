@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/izhang/Desktop/CS252/Lab6/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-13b1869629381f5af5511f8acb65d7025b91c016.jar"
+        jar="/Users/izhang/Desktop/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>

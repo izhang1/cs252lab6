@@ -41,7 +41,8 @@ public final class R {
         public static final int list_selector=0x7f02000b;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0007;
+        public static final int action_settings=0x7f0a0008;
+        public static final int button=0x7f0a0007;
         public static final int counter=0x7f0a0005;
         public static final int drawer_layout=0x7f0a0000;
         public static final int frame_container=0x7f0a0001;

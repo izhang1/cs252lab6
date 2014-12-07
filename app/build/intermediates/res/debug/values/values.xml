@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <array name="nav_drawer_icons">
@@ -21,7 +21,7 @@
         <item>Pages</item>
         <item>What\'s Hot</item>
     </string-array>
-    <!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/values/color.xml -->
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/values/color.xml -->
     <eat-comment />
 
     <color name="counter_text_bg">#626262</color>
@@ -30,12 +30,12 @@
     <color name="list_background_pressed">#992416</color>
     <color name="list_divider">#272727</color>
     <color name="list_item_title">#fff</color>
-    <!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="action_settings">Settings</string>
@@ -44,7 +44,7 @@
     <string name="drawer_close">Slider Menu Closed</string>
     <string name="drawer_open">Slider Menu Opened</string>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Light">

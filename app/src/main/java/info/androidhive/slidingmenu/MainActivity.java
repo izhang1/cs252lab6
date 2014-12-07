@@ -172,16 +172,6 @@ public class MainActivity extends Activity {
 		case 2:
 			fragment = new PhotosFragment();
 			break;
-		case 3:
-			fragment = new CommunityFragment();
-			break;
-		case 4:
-			fragment = new PagesFragment();
-			break;
-		case 5:
-			fragment = new WhatsHotFragment();
-			break;
-
 		default:
 			break;
 		}

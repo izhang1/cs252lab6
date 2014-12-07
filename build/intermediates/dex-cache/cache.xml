@@ -2,8 +2,14 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/izhang/Desktop/CS252/Lab6/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-13b1869629381f5af5511f8acb65d7025b91c016.jar"
-        jar="/Users/izhang/Desktop/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1-875652efb181d347bb8c4eebe66ad179997912d1.jar"
+        jar="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\libs\androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc"/>
+    <item
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3d7817301741bfd959e21282beea32f88a8d566e.jar"
+        jar="C:\Users\Shinku443\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>

@@ -28,7 +28,7 @@ public class HomeFragment extends Fragment {
 
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
-                data.addMetric("Bench", 185 );
+                data.removeSpecificValue("Bench","12");
             }
         });
         return rootView;

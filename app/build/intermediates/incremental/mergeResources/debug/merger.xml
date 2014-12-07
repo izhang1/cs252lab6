@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger version="2" >
 
-    <dataSet config="21.0.0-rc1" >
-        <source path="/Users/izhang/Desktop/CS252/Lab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
-    </dataSet>
     <dataSet config="main" >
         <source path="/Users/izhang/Desktop/CS252/Lab6/app/src/main/res" >
             <file
@@ -258,10 +255,10 @@
 Home
                     </item>
                     <item>
-Find People
+Metrics
                     </item>
                     <item>
-Photos
+Graphs
                     </item>
                     <item>
 Communities

@@ -65,11 +65,11 @@ public class MainActivity extends Activity {
 		// Photos
 		navDrawerItems.add(new NavDrawerItem(navMenuTitles[2], navMenuIcons.getResourceId(2, -1)));
 		// Communities, Will add a counter here
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[3], navMenuIcons.getResourceId(3, -1), true, "22"));
+		//navDrawerItems.add(new NavDrawerItem(navMenuTitles[3], navMenuIcons.getResourceId(3, -1), true, "22"));
 		// Pages
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[4], navMenuIcons.getResourceId(4, -1)));
+		//navDrawerItems.add(new NavDrawerItem(navMenuTitles[4], navMenuIcons.getResourceId(4, -1)));
 		// What's hot, We  will add a counter here
-		navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1), true, "50+"));
+		//navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1), true, "50+"));
 		
 
 		// Recycle the typed array
@@ -172,7 +172,7 @@ public class MainActivity extends Activity {
 		case 2:
 			fragment = new PhotosFragment();
 			break;
-		case 3:
+		/*case 3:
 			fragment = new CommunityFragment();
 			break;
 		case 4:
@@ -181,7 +181,7 @@ public class MainActivity extends Activity {
 		case 5:
 			fragment = new WhatsHotFragment();
 			break;
-
+        */
 		default:
 			break;
 		}

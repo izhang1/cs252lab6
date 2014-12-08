@@ -12,7 +12,6 @@ public class PlotFragment extends Fragment {
 
     public PlotFragment(){}
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

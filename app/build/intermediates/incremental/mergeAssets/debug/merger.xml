@@ -2,10 +2,17 @@
 <merger version="2" >
 
     <dataSet config="main" >
+<<<<<<< HEAD
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\debug\assets" />
+=======
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\debug\assets" />
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
     </dataSet>
 
 </merger>

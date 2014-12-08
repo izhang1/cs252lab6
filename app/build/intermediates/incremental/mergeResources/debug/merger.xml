@@ -2,229 +2,412 @@
 <merger version="2" >
 
     <dataSet config="main" >
+<<<<<<< HEAD
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res" >
             <file
                 name="counter_bg"
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable\counter_bg.xml"
+=======
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res" >
+            <file
+                name="counter_bg"
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable\counter_bg.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="drawable" />
             <file
                 name="list_item_bg_normal"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable\list_item_bg_normal.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable\list_item_bg_normal.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="drawable" />
             <file
                 name="list_item_bg_pressed"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable\list_item_bg_pressed.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable\list_item_bg_pressed.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="drawable" />
             <file
                 name="list_selector"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable\list_selector.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable\list_selector.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="drawable" />
             <file
                 name="ic_communities"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_communities.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_communities.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_drawer"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_drawer.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_drawer.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_home"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_home.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_home.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_launcher.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_launcher.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_pages"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_pages.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_pages.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_people"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_people.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_people.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_photos"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_photos.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_photos.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_whats_hot"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-hdpi\ic_whats_hot.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-hdpi\ic_whats_hot.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_communities"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_communities.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_communities.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_drawer"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_drawer.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_drawer.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_home"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_home.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_home.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_launcher.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_launcher.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_pages"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_pages.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_pages.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_people"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_people.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_people.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_photos"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_photos.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_photos.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_whats_hot"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-mdpi\ic_whats_hot.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-mdpi\ic_whats_hot.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_communities"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_communities.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_communities.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_drawer"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_drawer.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_home"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_home.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_home.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_pages"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_pages.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_pages.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_people"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_people.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_people.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_photos"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_photos.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_photos.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_whats_hot"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xhdpi\ic_whats_hot.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xhdpi\ic_whats_hot.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_communities"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_communities.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_communities.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_home"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_home.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_home.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_pages"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_pages.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_pages.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_people"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_people.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_people.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_photos"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_photos.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_photos.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_whats_hot"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_whats_hot.png"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\drawable-xxhdpi\ic_whats_hot.png"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_main"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\activity_main.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\activity_main.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="drawer_list_item"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\drawer_list_item.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\drawer_list_item.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_community"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_community.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_community.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_find_people"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_find_people.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_find_people.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_home"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_home.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_home.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_pages"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_pages.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_pages.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_photos"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_photos.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_photos.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_whats_hot"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\layout\fragment_whats_hot.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\layout\fragment_whats_hot.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\menu\main.xml"
                 qualifiers=""
                 type="menu" />
             <file
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values\color.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values\color.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="" >
                 <color name="list_item_title" >#fff
                 </color>
@@ -240,6 +423,7 @@
                 </color>
             </file>
             <file
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values\dimens.xml"
                 qualifiers="" >
                 <dimen name="pie_segment_label_font_size" >10dp
@@ -263,6 +447,17 @@
             </file>
             <file
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values\strings.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values\strings.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="" >
                 <string name="hello_world" >Hello world!
                 </string>
@@ -322,7 +517,11 @@ What\'s Hot
                 </string>
             </file>
             <file
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values\styles.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values\styles.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="" >
 
                 <style
@@ -344,13 +543,21 @@ What\'s Hot
                 </style>
             </file>
             <file
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values-sw720dp-land\dimens.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values-sw720dp-land\dimens.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="sw720dp-land-v13" >
                 <dimen name="activity_horizontal_margin" >128dp
                 </dimen>
             </file>
             <file
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values-v11\styles.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values-v11\styles.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="v11" >
 
                 <style
@@ -361,7 +568,11 @@ What\'s Hot
                 </style>
             </file>
             <file
+<<<<<<< HEAD
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\main\res\values-v14\styles.xml"
+=======
+                path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\main\res\values-v14\styles.xml"
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
                 qualifiers="v14" >
 
                 <style
@@ -387,11 +598,19 @@ What\'s Hot
                 qualifiers=""
                 type="xml" />
         </source>
+<<<<<<< HEAD
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\generated\res\rs\debug" />
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\generated\res\generated\debug" />
     </dataSet>
     <dataSet config="debug" >
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\src\debug\res" />
+=======
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Bill\Documents\cs252\lab6\cs252lab6\app\src\debug\res" />
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
     </dataSet>
 
 </merger>

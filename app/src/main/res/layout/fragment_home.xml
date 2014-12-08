@@ -17,9 +17,23 @@
         android:src="@drawable/ic_home"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"/>
+<<<<<<< HEAD
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="graphTest" />
+=======
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Does it work"
+        android:id="@+id/button"
+        android:layout_above="@+id/txtLabel"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="58dp"
+        android:layout_alignParentStart="false" />
+
+>>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
 
 </RelativeLayout>

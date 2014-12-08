@@ -9,6 +9,13 @@ import android.view.ViewGroup;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+import android.widget.Button;
+
+import com.firebase.client.Firebase;
+
+import info.androidhive.slidingmenu.model.DatabaseConnection;
+
+
 public class HomeFragment extends Fragment {
 	
 	public HomeFragment(){}
@@ -18,6 +25,7 @@ public class HomeFragment extends Fragment {
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
             Bundle savedInstanceState) {
+
  
         View rootView = inflater.inflate(R.layout.fragment_home, container, false);
 
@@ -33,6 +41,21 @@ public class HomeFragment extends Fragment {
 
         //Button btn = (Button) rootView.findViewById(R.id.testplot);
         //btn.setOnClickListener(listnr);
+
+
+
+        //final View rootView = inflater.inflate(R.layout.fragment_home, container, false);
+        Firebase.setAndroidContext(rootView.getContext());
+        Firebase ref = new Firebase("https://lab6.firebaseio.com/User/");
+        Button button = (Button) rootView.findViewById(R.id.button);
+
+        final DatabaseConnection data = new DatabaseConnection(ref);
+
+        button.setOnClickListener(new View.OnClickListener(){
+            public void onClick(View v) {
+                data.removeSpecificValue("Bench","12");
+            }
+        });
 
         return rootView;
     }

@@ -21,4 +21,4 @@
         android:dividerHeight="1dp"        
         android:listSelector="@drawable/list_selector"
         android:background="@color/list_background"/>
-</android.support.v4.widget.DrawerLayout><!-- From: file:/Users/izhang/Desktop/CS252/Lab6/app/src/main/res/layout/activity_main.xml -->
+</android.support.v4.widget.DrawerLayout><!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/layout/activity_main.xml -->

@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger version="2" >
 
-    <dataSet config="21.0.0-rc1" >
-        <source path="/Users/izhang/Desktop/CS252/Lab6/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/assets" />
-    </dataSet>
     <dataSet config="main" >
-        <source path="/Users/izhang/Desktop/CS252/Lab6/app/src/main/assets" />
+        <source path="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/izhang/Desktop/CS252/Lab6/app/src/debug/assets" />
+        <source path="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\src\debug\assets" />
     </dataSet>
 
 </merger>

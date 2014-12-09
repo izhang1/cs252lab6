@@ -13,7 +13,7 @@ import android.widget.Button;
 
 import com.firebase.client.Firebase;
 
-import info.androidhive.slidingmenu.model.DatabaseConnection;
+//import info.androidhive.slidingmenu.model.DatabaseConnection;
 
 
 public class HomeFragment extends Fragment {
@@ -48,14 +48,14 @@ public class HomeFragment extends Fragment {
         Firebase ref = new Firebase("https://lab6.firebaseio.com/User/");
         Button button = (Button) rootView.findViewById(R.id.button);
 
-        final DatabaseConnection data = new DatabaseConnection(ref);
-
+        //final DatabaseConnection data = new DatabaseConnection(ref);
+/*
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
                 data.removeSpecificValue("Bench","12");
             }
         });
-
+*/
         return rootView;
     }
 

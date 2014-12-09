@@ -214,11 +214,6 @@
                 qualifiers=""
                 type="layout" />
             <file
-                name="fragment_whats_hot"
-                path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\src\main\res\layout\fragment_whats_hot.xml"
-                qualifiers=""
-                type="layout" />
-            <file
                 name="testplot"
                 path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\src\main\res\layout\testplot.xml"
                 qualifiers=""
@@ -386,6 +381,16 @@ What\'s Hot
                 path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\src\main\res\xml\line_point_formatter_with_plf2.xml"
                 qualifiers=""
                 type="xml" />
+            <file
+                name="graph"
+                path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\src\main\res\drawable-hdpi\graph.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="graphing"
+                path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\src\main\res\layout\graphing.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\build\generated\res\rs\debug" />
         <source path="C:\Users\Shinku443\AndroidStudioProjects\Graphing252\app\build\generated\res\generated\debug" />

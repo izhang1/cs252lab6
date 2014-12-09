@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <TextView
+        android:id="@+id/txtLabel"
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="16dp"
+        android:text="Graph View"/>
+    
+    <ImageView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLabel"
+        android:src="@drawable/graph"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/imageView" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    Edit    "
+        android:id="@+id/edit_graph"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/txtLabel"
+        android:layout_toStartOf="@+id/txtLabel"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Delete "
+        android:id="@+id/delete_graph"
+        android:layout_alignTop="@+id/edit_graph"
+        android:layout_toRightOf="@+id/txtLabel"
+        android:layout_toEndOf="@+id/txtLabel" />
+
+    <Button
+        android:onClick="graphTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Graph  "
+        android:id="@+id/graph_button"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="57dp" />
+
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/Graphing252/app/src/main/res/layout/graphing.xml -->

@@ -19,8 +19,4 @@
         android:layout_marginTop="10dp"/>    
 
 </RelativeLayout>
-<<<<<<< HEAD
-<!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab6/app/src/main/res/layout/fragment_community.xml -->
-=======
-<!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/layout/fragment_community.xml -->
->>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
+<!-- From: file:/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/res/layout/fragment_community.xml -->

@@ -174,11 +174,7 @@ public class MainActivity extends Activity {
 			fragment = new FindPeopleFragment();
 			break;
 		case 2:
-<<<<<<< HEAD
             fragment = new PlotFragment();
-=======
-			fragment = new PhotosFragment();
->>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
 			break;
 		default:
 			break;

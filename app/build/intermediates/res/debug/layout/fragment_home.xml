@@ -17,15 +17,11 @@
         android:src="@drawable/ic_home"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"/>
-<<<<<<< HEAD
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="graphTest" />
-
-</RelativeLayout>
-<!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab6/app/src/main/res/layout/fragment_home.xml -->
-=======
 
     <Button
         android:layout_width="wrap_content"
@@ -37,7 +33,5 @@
         android:layout_marginBottom="58dp"
         android:layout_alignParentStart="false" />
 
-
 </RelativeLayout>
-<!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/cs252lab6/app/src/main/res/layout/fragment_home.xml -->
->>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
+<!-- From: file:/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/res/layout/fragment_home.xml -->

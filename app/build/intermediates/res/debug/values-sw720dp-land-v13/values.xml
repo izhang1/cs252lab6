@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <!-- From: file:/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/res/values-sw720dp-land/dimens.xml -->
+=======
+    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/values-sw720dp-land/dimens.xml -->
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">128dp</dimen>

@@ -5,4 +5,8 @@
     <item android:drawable="@drawable/list_item_bg_pressed" android:state_pressed="true"/>
     <item android:drawable="@drawable/list_item_bg_pressed" android:state_activated="true"/>
 
+<<<<<<< HEAD
 </selector><!-- From: file:/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/res/drawable/list_selector.xml -->
+=======
+</selector><!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/drawable/list_selector.xml -->
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed

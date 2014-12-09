@@ -2,17 +2,10 @@
 <merger version="2" >
 
     <dataSet config="main" >
-<<<<<<< HEAD
-        <source path="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/assets" />
-    </dataSet>
-    <dataSet config="debug" >
-        <source path="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/debug/assets" />
-=======
         <source path="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
         <source path="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\src\debug\assets" />
->>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
     </dataSet>
 
 </merger>

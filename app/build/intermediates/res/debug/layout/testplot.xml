@@ -27,4 +27,4 @@
         androidPlot.legendWidget.heightMetric.value="25dp"
         androidPlot.legendWidget.positionMetrics.anchor="right_bottom"
         androidPlot.graphWidget.gridLinePaint.color="#000000"/>
-</LinearLayout><!-- From: file:/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/src/main/res/layout/testplot.xml -->
+</LinearLayout><!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/layout/testplot.xml -->

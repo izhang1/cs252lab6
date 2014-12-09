@@ -48,14 +48,16 @@ public final class R {
         public static final int list_selector=0x7f02000b;
     }
     public static final class id {
-        public static final int action_settings=0x7f0b0009;
-        public static final int button=0x7f0b0007;
+        public static final int action_settings=0x7f0b000b;
+        public static final int button=0x7f0b0009;
         public static final int counter=0x7f0b0005;
         public static final int drawer_layout=0x7f0b0000;
         public static final int frame_container=0x7f0b0001;
         public static final int icon=0x7f0b0003;
+        public static final int listView=0x7f0b0008;
         public static final int list_slidermenu=0x7f0b0002;
-        public static final int testplot=0x7f0b0008;
+        public static final int metricButton=0x7f0b0007;
+        public static final int testplot=0x7f0b000a;
         public static final int title=0x7f0b0004;
         public static final int txtLabel=0x7f0b0006;
     }

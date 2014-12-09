@@ -11,6 +11,7 @@ import android.widget.ListView;
 
 import com.firebase.client.Firebase;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 import info.androidhive.slidingmenu.model.DatabaseConnection;
@@ -33,6 +34,13 @@ public class FindPeopleFragment extends Fragment {
         ListView metricView = (ListView) rootView.findViewById(R.id.listView);
         ArrayList<String> metricList = data.listMetrics();
 
+        metricButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                ArrayList<String> metricList = data.listMetrics();
+                Log.v("Metric List", metricList.toString());
+            }
+        });
         return rootView;
     }
 }

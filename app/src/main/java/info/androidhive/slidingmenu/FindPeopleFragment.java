@@ -32,12 +32,23 @@ public class FindPeopleFragment extends Fragment {
         Button metricButton = (Button)rootView.findViewById(R.id.metricButton);
 
         ListView metricView = (ListView) rootView.findViewById(R.id.listView);
-        ArrayList<String> metricList = data.listMetrics();
+        ArrayList<String> metricList = null;
+        try {
+            metricList = data.listMetrics();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        Log.v("Metric List", metricList.toString());
 
         metricButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ArrayList<String> metricList = data.listMetrics();
+                ArrayList<String> metricList = null;
+                try {
+                    metricList = data.listMetrics();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 Log.v("Metric List", metricList.toString());
             }
         });

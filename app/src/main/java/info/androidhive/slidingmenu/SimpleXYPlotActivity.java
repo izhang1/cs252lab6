@@ -1,5 +1,6 @@
 package info.androidhive.slidingmenu;
 import android.app.Activity;
+import android.graphics.Paint;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -55,6 +56,15 @@ public class SimpleXYPlotActivity extends Activity
         Number[] series2Numbers = {4, 6, 3, 8, 2, 10};
 
 
+        //Testing Data with DATABASE
+        data.addMetric("Pounds lifted", 1);
+        data.addMetric("Pounds lifted", 15);
+        data.addMetric("Pounds lifted", 100);
+        data.addMetric("Pounds lifted", 150);
+
+
+
+
 
         // Turn the above arrays into XYSeries':
         XYSeries series1 = new SimpleXYSeries(
@@ -68,6 +78,8 @@ public class SimpleXYPlotActivity extends Activity
         // Create a formatter to use for drawing a series using LineAndPointRenderer
         // and configure it from xml:
         LineAndPointFormatter series1Format = new LineAndPointFormatter();
+        series1Format.getLinePaint().setStrokeJoin((Paint.Join.ROUND));
+        series1Format.getLinePaint().setStrokeWidth(1);
         series1Format.setPointLabelFormatter(new PointLabelFormatter());
         series1Format.configure(getApplicationContext(),
                 R.xml.line_point_formatter_with_plf1);

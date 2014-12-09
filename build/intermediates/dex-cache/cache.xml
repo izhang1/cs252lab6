@@ -2,30 +2,89 @@
 <pre-dex-items>
 
     <item
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1-875652efb181d347bb8c4eebe66ad179997912d1.jar"
+        jar="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\libs\androidplot-core-0.6.1.jar"
+=======
+<<<<<<< HEAD
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.1-761c7c2576b521cb3af8d1a830261c7682e881c5.jar"
+        jar="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/libs/androidplot-core-0.6.1.jar"
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc"/>
+    <item
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\tubesock-0.0.10-a00442f6b789fdcc7c46591e6ffba26a6f736421.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.10\ddce2c65136c1de8000f8932d8b7ab16d5d336b9\tubesock-0.0.10.jar"
+=======
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.0.3-161ac90d7c1949bb344f751e79384788f906e91a.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.0.3/81994bbc1bd46454616b733bf31fe4a22018e056/firebase-client-jvm-2.0.3.jar"
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="81994bbc1bd46454616b733bf31fe4a22018e056"/>
+    <item
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-fc69ac5df1e7a3d8dcb902a6170ede8e6374c797.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6"/>
+    <item
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.0.3-1d7d0c25cdc7b6c9e4ccf9cd7dcc575fe7ca0d7b.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.0.3\1665cb30372ae93a46d9800adf5751bc48fa202f\firebase-client-android-2.0.3.jar"
+=======
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-550f9ad4c343f5f36ea8ec35b36d623e1e58feaf.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+=======
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.0.3-e180985580558f9e9ec3b18677d90fe84982effc.jar"
         jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.0.3\1665cb30372ae93a46d9800adf5751bc48fa202f\firebase-client-android-2.0.3.jar"
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
         jumboMode="false"
         revision="20.0.0"
         sha1="1665cb30372ae93a46d9800adf5751bc48fa202f"/>
     <item
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.0.3-1443adce04e4bd545d594847b6058efcd72411f2.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.0.3\81994bbc1bd46454616b733bf31fe4a22018e056\firebase-client-jvm-2.0.3.jar"
+=======
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\tubesock-0.0.10-9d070eef88dcc9d71c25c11ebaaba33053877b8c.jar"
         jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.10\ddce2c65136c1de8000f8932d8b7ab16d5d336b9\tubesock-0.0.10.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9"/>
     <item
+<<<<<<< HEAD
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1-c1d12231f9cd82dd3db605a677446dde74533d64.jar"
         jar="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\libs\androidplot-core-0.6.1.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc"/>
-    <item
-        dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.0.3-8a585f4f09651ec1f7934cc5125a1c339fbac433.jar"
-        jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.0.3\81994bbc1bd46454616b733bf31fe4a22018e056\firebase-client-jvm-2.0.3.jar"
+=======
+        dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-28f3a8650fb47a64c724f1469505fbcfc033dc91.jar"
+        jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
         jumboMode="false"
         revision="20.0.0"
         sha1="81994bbc1bd46454616b733bf31fe4a22018e056"/>
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
     <item
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-f3c862790597e7c27f0fbeb093c1dd4631b06daf.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+=======
+        dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.0.3-8a585f4f09651ec1f7934cc5125a1c339fbac433.jar"
+        jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.0.3\81994bbc1bd46454616b733bf31fe4a22018e056\firebase-client-jvm-2.0.3.jar"
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b"/>
+    <item
+<<<<<<< HEAD
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2-28f3a8650fb47a64c724f1469505fbcfc033dc91.jar"
         jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
         jumboMode="false"
@@ -34,20 +93,79 @@
     <item
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-96dadaaa86d940e3ef50c3fa95d62312476c41d8.jar"
         jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+=======
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-86fac4b3ed6d8f1ee14a19212998bc186dc823ec.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+=======
+        dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2-96dadaaa86d940e3ef50c3fa95d62312476c41d8.jar"
+        jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
         jumboMode="false"
         revision="20.0.0"
         sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113"/>
     <item
+<<<<<<< HEAD
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
         jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+=======
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-4efdb19c8ee2670a97b00dbe86b86a5be7723521.jar"
+        jar="C:\Users\Shinku443\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+=======
+<<<<<<< HEAD
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-13b1869629381f5af5511f8acb65d7025b91c016.jar"
+        jar="/Users/izhang/Desktop/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+=======
+        dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6"/>
+    <item
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+        dex="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-3d7817301741bfd959e21282beea32f88a8d566e.jar"
+        jar="C:\Users\Shinku443\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+=======
+<<<<<<< HEAD
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.0.3-c7d3a9386762bca92c55de4276b7731fc3336ead.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.0.3/1665cb30372ae93a46d9800adf5751bc48fa202f/firebase-client-android-2.0.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1665cb30372ae93a46d9800adf5751bc48fa202f"/>
     <item
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-eee77e144ba3496b85324ebd34c71af6e5df013a.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b"/>
+    <item
+        dex="/Users/izhang/Desktop/CS252/bill_lab6/cs252lab6/app/build/intermediates/pre-dexed/debug/tubesock-0.0.10-bc8b796c630f0e0eacd03f867014956193991dec.jar"
+        jar="/Users/izhang/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9"/>
+=======
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
         dex="C:\Users\Bill\Documents\cs252\lab6\master\cs252lab6\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2-df7f8947e50adbd7f1319dded6ba2fe3111a7526.jar"
         jar="C:\Users\Bill\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6"/>
+<<<<<<< HEAD
+=======
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
+>>>>>>> dc308d802f079dafab4a2ffec93ecd21770ca09b
+>>>>>>> 776abad5a80f4fd4ddcbe5f760603960e8bf2982
 
 </pre-dex-items>

@@ -19,6 +19,7 @@
         android:layout_marginTop="10dp"/>
 
     <Button
+        android:text="Graph"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="graphTest" />
@@ -34,4 +35,4 @@
         android:layout_alignParentStart="false" />
 
 </RelativeLayout>
-<!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/layout/fragment_home.xml -->
+<!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/Graphing252/app/src/main/res/layout/fragment_home.xml -->

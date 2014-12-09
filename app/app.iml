@@ -82,14 +82,11 @@
     <orderEntry type="library" exported="" name="jackson-databind-2.2.2" level="project" />
     <orderEntry type="library" exported="" name="tubesock-0.0.10" level="project" />
     <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
-<<<<<<< HEAD
-    <orderEntry type="library" exported="" name="androidplot-core-0.6.1" level="project" />
-=======
     <orderEntry type="library" exported="" name="firebase-client-android-2.0.3" level="project" />
+    <orderEntry type="library" exported="" name="androidplot-core-0.6.1" level="project" />
     <orderEntry type="library" exported="" name="firebase-client-jvm-2.0.3" level="project" />
     <orderEntry type="library" exported="" name="jackson-annotations-2.2.2" level="project" />
     <orderEntry type="library" exported="" name="jackson-core-2.2.2" level="project" />
->>>>>>> b82583c77f67a5c138a12577948827ae9efc21bb
   </component>
 </module>
 

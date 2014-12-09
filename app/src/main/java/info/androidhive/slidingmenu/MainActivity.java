@@ -74,6 +74,7 @@ public class MainActivity extends Activity {
 		//navDrawerItems.add(new NavDrawerItem(navMenuTitles[5], navMenuIcons.getResourceId(5, -1), true, "50+"));
         //testing plot
        // navDrawerItems.add(new NavDrawerItem(navMenuTitles[6], navMenuIcons.getResourceId(6, -1)));
+
 		
 
 		// Recycle the typed array
@@ -176,6 +177,7 @@ public class MainActivity extends Activity {
 		case 2:
             fragment = new PlotFragment();
 			break;
+
 		default:
 			break;
 		}

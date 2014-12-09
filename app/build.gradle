@@ -22,10 +22,19 @@ android {
         exclude 'META-INF/LICENSE-FIREBASE.txt'
         exclude 'META-INF/NOTICE'
     }
+<<<<<<< HEAD
+=======
 
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
 }
 
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'
+<<<<<<< HEAD
+    compile files('libs/androidplot-core-0.6.1.jar')
     compile 'com.firebase:firebase-client-android:2.0.3+'
+
+=======
+    compile 'com.firebase:firebase-client-android:2.0.3+'
+>>>>>>> c237fe78807cf886c927e976c7ab932a264e25ed
 }

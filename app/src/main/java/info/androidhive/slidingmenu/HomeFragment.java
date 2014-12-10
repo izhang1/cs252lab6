@@ -70,7 +70,7 @@ public class HomeFragment extends Fragment {
 
 
     public void graphTest(View view){
-        Intent intent = new Intent(getActivity(), SimpleXYPlotActivity.class);
+        Intent intent = new Intent(getActivity(), GraphFrag.class);
         startActivity(intent);
 
     }

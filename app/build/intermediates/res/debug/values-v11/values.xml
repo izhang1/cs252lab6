@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/values-v11/styles.xml -->
+    <!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab61/app/src/main/res/values-v11/styles.xml -->
     <eat-comment />
 
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light">

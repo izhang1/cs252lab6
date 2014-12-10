@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/txtLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textSize="16dp"
+        android:text="Graph View"/>
+
+    <ImageView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtLabel"
+        android:src="@drawable/graph"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/imageView" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:id="@+id/delete_graph"
+        android:layout_toEndOf="@+id/txtLabel"
+        android:layout_alignTop="@+id/graph_button"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:onClick="graphTest"
+        android:layout_width="1000dp"
+        android:layout_height="wrap_content"
+        android:text="  Graph  "
+        android:id="@+id/graph_button"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/txtLabel"
+        android:layout_toStartOf="@+id/txtLabel"
+        android:layout_marginBottom="61dp" />
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chooseMetric"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:entries="@array/metrics"
+        android:spinnerMode="dropdown" />
+
+
+</RelativeLayout>

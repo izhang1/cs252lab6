@@ -14,7 +14,8 @@ import com.firebase.client.Firebase;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-//import info.androidhive.slidingmenu.model.DatabaseConnection;
+import info.androidhive.slidingmenu.model.DatabaseConnection;
+
 
 /**
  * A straightforward example of using AndroidPlot to plot some data.
@@ -41,7 +42,7 @@ public class SimpleXYPlotActivity extends Activity
         //Firebase stuff (DB)
         //Firebase.setAndroidContext(rootView.getContext());
         Firebase ref = new Firebase("https://lab6.firebaseio.com/User/");
-        //final DatabaseConnection data = new DatabaseConnection(ref);
+        final DatabaseConnection data = new DatabaseConnection(ref);
 
         // fun little snippet that prevents users from taking screenshots
         // on ICS+ devices :-)
@@ -55,6 +56,7 @@ public class SimpleXYPlotActivity extends Activity
 
         // Create a couple arrays of y-values to plot:
         Number[] series1Numbers = {1, 8, 5, 2, 7, 4};
+
         //Number[] series2Numbers = {4, 6, 3, 8, 2, 10};
 
 

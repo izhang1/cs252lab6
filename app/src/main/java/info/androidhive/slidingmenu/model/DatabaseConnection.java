@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.concurrent.locks.*;
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.atomic.AtomicBoolean;
+
 
 
 /**
@@ -24,9 +24,11 @@ public class DatabaseConnection {
     private Firebase metricRef;
     long childrenCount;
     boolean done;
+    ArrayList<String> metricList = new ArrayList<String>();
+    ArrayList<String> metricsList = new ArrayList<String>();
 
     public DatabaseConnection (Firebase ref)  {
-        metricRef= ref.child("Metrics");
+        metricRef= ref.child("Metric");
     }
 
     public DatabaseConnection(Firebase ref, Firebase metricRef){
@@ -79,50 +81,48 @@ public class DatabaseConnection {
     }
 
 
-    public ArrayList<String> listMetric ( String metric ) {
-        final ArrayList<String> list = new ArrayList<String>();
+    public void populateMetric ( String metric ) {
         Firebase listRef = metricRef.child(metric);
-        final Lock _mutex = new ReentrantLock(true);
 
-        _mutex.lock();
+
         listRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 Iterator iter =  dataSnapshot.getChildren().iterator();
+                metricList.clear();
                 while(iter.hasNext()){
                     String metricValue = iter.next().toString();
                     metricValue = getValue(metricValue);
-                    list.add(metricValue);
+                    metricList.add(metricValue);
                     Log.v("Metric Value", metricValue);
 
                 }
-                _mutex.unlock();
             }
 
             @Override
             public void onCancelled(FirebaseError firebaseError) {
 
             }
+
         });
 
-        return list;
     }
 
-    public ArrayList<String> listMetrics () throws InterruptedException {
-        final ArrayList<String> list = new ArrayList<String>();
-        final Thread thread = new Thread(){
-            public void run(){
-                System.out.println("Thread Running");
+    public ArrayList<String> listMetric ( ) {
+        return this.metricList;
+    }
 
+    public void populateMetrics () {
 
         metricRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 Iterator iter =  dataSnapshot.getChildren().iterator();
+                metricsList.clear();
                 while(iter.hasNext()){
                     String metricName = iter.next().toString();
                     metricName = getKey(metricName);
-                    list.add(metricName);
+                    metricsList.add(metricName);
                     Log.v("Metric name", metricName);
                 }
 
@@ -132,12 +132,10 @@ public class DatabaseConnection {
 
             }
         });
-            }
-        };
-        thread.start();
-        thread.join();
-        Log.v("Metric thread", "done");
-        return list;
+    }
+
+    public ArrayList<String> listMetrics ( ) {
+        return this.metricsList;
     }
 
     //Helper methods to format returned strings

@@ -3,6 +3,7 @@ package info.androidhive.slidingmenu;
 import android.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,6 +13,8 @@ import android.widget.Button;
 import android.widget.Button;
 
 import com.firebase.client.Firebase;
+
+import java.util.ArrayList;
 
 import info.androidhive.slidingmenu.model.DatabaseConnection;
 
@@ -45,14 +48,19 @@ public class HomeFragment extends Fragment {
 
         //final View rootView = inflater.inflate(R.layout.fragment_home, container, false);
         Firebase.setAndroidContext(rootView.getContext());
-        Firebase ref = new Firebase("https://lab6.firebaseio.com/User/");
+        Firebase ref = new Firebase("https://lab61.firebaseio.com/User/");
         Button button = (Button) rootView.findViewById(R.id.button);
 
         final DatabaseConnection data = new DatabaseConnection(ref);
+        data.populateMetrics();
+        data.populateMetric("Bench");
 
         button.setOnClickListener(new View.OnClickListener(){
             public void onClick(View v) {
-                data.removeSpecificValue("Bench","12");
+                ArrayList<String> metricsList = data.listMetrics();
+                Log.v("Metrics List", metricsList.toString());
+                ArrayList<String> metricList = data.listMetric();
+                Log.v("Metric List", metricList.toString());
             }
         });
 

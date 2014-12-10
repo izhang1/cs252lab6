@@ -26,29 +26,24 @@ public class FindPeopleFragment extends Fragment {
  
         View rootView = inflater.inflate(R.layout.fragment_find_people, container, false);
         Firebase.setAndroidContext(rootView.getContext());
-        Firebase ref = new Firebase("https://lab6.firebaseio.com/User/");
+        Firebase ref = new Firebase("https://lab61.firebaseio.com/User/");
         final DatabaseConnection data = new DatabaseConnection(ref);
+
+        data.populateMetrics();
+
 
         Button metricButton = (Button)rootView.findViewById(R.id.metricButton);
 
         ListView metricView = (ListView) rootView.findViewById(R.id.listView);
         ArrayList<String> metricList = null;
-        try {
             metricList = data.listMetrics();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+
         Log.v("Metric List", metricList.toString());
 
         metricButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                ArrayList<String> metricList = null;
-                try {
-                    metricList = data.listMetrics();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                ArrayList<String> metricList = data.listMetrics();
                 Log.v("Metric List", metricList.toString());
             }
         });

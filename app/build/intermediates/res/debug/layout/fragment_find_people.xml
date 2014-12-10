@@ -20,4 +20,4 @@
         android:layout_centerHorizontal="true"
         android:layout_above="@+id/metricButton" />
 </RelativeLayout>
-<!-- From: file:/C:/Users/Bill/Documents/cs252/lab6/master/cs252lab6/app/src/main/res/layout/fragment_find_people.xml -->
+<!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab6WORKPLS/app/src/main/res/layout/fragment_find_people.xml -->

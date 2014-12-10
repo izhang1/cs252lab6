@@ -396,6 +396,18 @@ What\'s Hot
                 path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6WORKPLS\app\src\main\res\drawable-hdpi\graph.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
+            <file
+                path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6WORKPLS\app\src\main\res\values\arrays.xml"
+                qualifiers="" >
+                <string-array name="metrics" >
+                    <item>
+Metric 1
+                    </item>
+                    <item>
+Metric 2
+                    </item>
+                </string-array>
+            </file>
         </source>
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6WORKPLS\app\build\generated\res\rs\debug" />
         <source path="C:\Users\Shinku443\AndroidStudioProjects\cs252lab6WORKPLS\app\build\generated\res\generated\debug" />

@@ -9,8 +9,9 @@ package info.androidhive.slidingmenu;
 
 public final class R {
     public static final class array {
-        public static final int nav_drawer_icons=0x7f050000;
-        public static final int nav_drawer_items=0x7f050001;
+        public static final int metrics=0x7f050000;
+        public static final int nav_drawer_icons=0x7f050001;
+        public static final int nav_drawer_items=0x7f050002;
     }
     public static final class attr {
     }

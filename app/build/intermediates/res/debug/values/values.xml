@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab6WORKPLS/app/src/main/res/values/arrays.xml -->
+    <eat-comment />
+
+    <string-array name="metrics">
+        <item>Metric 1</item>
+        <item>Metric 2</item>
+    </string-array>
     <!-- From: file:/C:/Users/Shinku443/AndroidStudioProjects/cs252lab6WORKPLS/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
